@@ -18,6 +18,7 @@
   </ItemGroup>
 
     <ItemGroup>
+      <PackageReference Include="AutoMapper" Version="16.1.1" />
         <ProjectReference Include="..\..\core\Elsa.Core\Elsa.Core.csproj" />
         <ProjectReference Include="..\..\scripting\Elsa.Scripting.Sql\Elsa.Scripting.Sql.csproj" />        
     </ItemGroup>
